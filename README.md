@@ -2,9 +2,9 @@
 
 ## wirefame-exercise
 
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
+Practice building out a professional-style wireframe document from a provided spec
 
-### Author: Student/Group Name
+### Author: Thomas
 
 ### Links and Resources
 
